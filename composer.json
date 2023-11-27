@@ -1,0 +1,6 @@
+{
+    "require": {
+        "symfony/debug-pack": "^1.0",
+        "symfony/validator": "^6.3"
+    }
+}
